@@ -1,10 +1,8 @@
-# Raj
-hello
-
-[![Build Status](http://ec2-35-178-63-181.eu-west-2.compute.amazonaws.com:8080/job/JenkinsFirstRun/buildStatus)](http://ec2-35-178-63-181.eu-west-2.compute.amazonaws.com:8080/job/JenkinsFirstRun/lastBuild/)
 # Sparta Node Sample App
 
-This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch.
+## Description
+
+This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch. 
 
 To use the repo within your course you should fork it.
 
@@ -59,3 +57,7 @@ npm test
 ```
 
 The test for posts will fail ( as expected ) if the database has not been correctly setup.
+
+
+
+
