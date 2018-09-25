@@ -1,0 +1,26 @@
+DEPENDENCIES
+  mongod
+    git: git@github.com:Sivachel/Chef_Cookbook_Mongodb.git
+    revision: 677a2982ff6b0fe92b35928b1539efe9e903f8d9
+  node
+    git: git@github.com:Sivachel/Chef_Cookbook_node.git
+    revision: cf59f0954031801c63f9cd28582fe613ef4f53f4
+
+GRAPH
+  ark (4.0.0)
+    build-essential (>= 0.0.0)
+    seven_zip (>= 0.0.0)
+  build-essential (8.2.1)
+    mingw (>= 1.1)
+    seven_zip (>= 0.0.0)
+  mingw (2.1.0)
+    seven_zip (>= 0.0.0)
+  mongod (0.1.0)
+  node (0.1.0)
+    nodejs (~> 5.0.0)
+  nodejs (5.0.0)
+    ark (>= 2.0.2)
+    build-essential (>= 0.0.0)
+  seven_zip (3.0.0)
+    windows (>= 0.0.0)
+  windows (5.1.1)
